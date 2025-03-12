@@ -4,7 +4,7 @@ Grayscale is a multipurpose, single-page HTML theme created by [AngryX](https://
 
 ## Preview
 
-[![Grayscale Preview](https://ltdfoto.ru/images/2025/03/12/SNIMOK-EKRANA-2025-03-12-V-14.16.52.png)](http://127.0.0.1:5500/Grayscale/dist/index.html)
+[![Grayscale Preview](https://ltdfoto.ru/images/2025/03/12/SNIMOK-EKRANA-2025-03-12-V-14.16.52.png)](https://angryx-27.github.io/Grayscale/)
 
 **[View Live Preview](ссылка на просмотр проекта в живую)**
 
@@ -35,7 +35,7 @@ Grayscale - многоцелевая, одностраничная HTML-тема
 
 ## Предварительный просмотр
 
-[![Grayscale Preview](https://ltdfoto.ru/images/2025/03/12/SNIMOK-EKRANA-2025-03-12-V-14.16.52.png)](ссылка на просмотр проекта в живую)
+[![Grayscale Preview](https://ltdfoto.ru/images/2025/03/12/SNIMOK-EKRANA-2025-03-12-V-14.16.52.png)](https://angryx-27.github.io/Grayscale/)
 
 **[Просмотр в режиме реального времени](ссылка на просмотр проекта в живую)**
 
