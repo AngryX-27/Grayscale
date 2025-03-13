@@ -1,7 +1,7 @@
 {
     "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
-    "version": "7.0.6",
+    "name": "grayscale",
+    "version": "0.0.1",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
         "build:assets": "node scripts/build-assets.js",
@@ -21,19 +21,10 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/grayscale",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
+    "author": "AngryX",
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-grayscale.git"
+        "url": "https://github.com/AngryX-27/Grayscale.git"
     },
     "dependencies": {
         "bootstrap": "5.2.3"
